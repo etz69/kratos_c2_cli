@@ -1,4 +1,4 @@
-# Kratos-c2
+# Kratos-c2-cli
 
 ```
  | |/ /_ __ __ _| |_ ___  ___        ___|___ \ 
@@ -9,7 +9,6 @@
 
 ```
 
-Kratos-C2 is comprised of three main components
 
 Kratos CLI
 ---
